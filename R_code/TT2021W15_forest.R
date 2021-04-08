@@ -53,7 +53,7 @@ gg_014 <- df_014 %>%
   # Formatting
   scale_fill_manual(values = c("#D1C99F", "#3F612D")) +
   
-  scale_x_continuous(name = "Basketball Courts (Equivalent Area)", limits = c(-5,4.5), breaks = c(-5,-4,-3,-2,-1,0,1,2,3,4)) # to improve +
+  scale_x_continuous(name = "Basketball Courts (Equivalent Area)", limits = c(-5,4.5), breaks = c(-5,-4,-3,-2,-1,0,1,2,3,4)) + # to improve
   
   geom_label(aes(label = label), hjust = "outward", label.size = 0, fill = "white", size = 4) +
   
