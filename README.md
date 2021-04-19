@@ -29,4 +29,4 @@ I never used `gganimate` before, so I challenged myself trying to reproduce the 
 
 Source code [here]()
 
-![US Post Offices](plots/USpost.gif)
+![US Post Offices]()
