@@ -25,7 +25,7 @@ Their website has more details:
 
 - [US Post Offices](https://cblevins.github.io/us-post-offices/)
 
-I nver used `gganimate` before, so I challenged myself trying to reproduce the animation from the website:
-<center>
+I never used `gganimate` before, so I challenged myself trying to reproduce the animation from the website:
+
+Source code [here]()
 ![US Post Offices](plots/USpost.gif)
-</center>
