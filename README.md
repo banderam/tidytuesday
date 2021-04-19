@@ -28,5 +28,4 @@ Their website has more details:
 I never used `gganimate` before, so I challenged myself trying to reproduce the animation from the website:
 
 Source code [here](R_code/TT2021W16_USpost.R)
-
 ![US Post Offices](plots/USpost.gif)
